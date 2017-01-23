@@ -1,7 +1,1 @@
-### Mah Youtube
-It is completely terrible. You have been warned. Mostly just Minecraft PvP.
-https://www.youtube.com/channel/UCl5bXgM3ql6KlWJBcEy3Rfg
-
-### Mah Twitter
-It is completely twitter.
-https://twitter.com/Technocoder_
+### Insert Cool Stuff About Me Here
