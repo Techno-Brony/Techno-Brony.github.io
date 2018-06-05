@@ -1,8 +1,6 @@
-title: About Me
+title: Technocoder
 description: Programmer Wannabe
-google_analytics: 
-show_downloads: false
-theme: jekyll-theme-cayman
-
+google_analytics: UA-120286070-2
+theme: jekyll-theme-slate
 gems:
   - jekyll-mentions
